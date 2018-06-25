@@ -1,3 +1,5 @@
+// Solution 
+
 function bubblesort(array) {
     for(let i = 0; i < array.length; i++) {
         for(let j = 0; j < array.length - 1; j++) {
@@ -14,7 +16,7 @@ bubbleSort([9,7,5,4,3,1]); //[1, 3, 4, 5, 7, 9]
 bubbleSort([1,2,3,4,5,6]); //[1, 2, 3, 4, 5, 6]
 
 
-//Second Solution
+// Solution
 
 function bubbleSort(arr){
    var len = arr.length;
