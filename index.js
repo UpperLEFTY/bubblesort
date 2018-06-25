@@ -1,4 +1,4 @@
-// Solution 
+// Solution 1
 
 function bubblesort(array) {
     for(let i = 0; i < array.length; i++) {
