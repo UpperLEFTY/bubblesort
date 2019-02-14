@@ -1,4 +1,5 @@
 // Solution 1
+// For loop below shows the proper way to bubblesort.
 
 function bubblesort(array) {
     for(let i = 0; i < array.length; i++) {
